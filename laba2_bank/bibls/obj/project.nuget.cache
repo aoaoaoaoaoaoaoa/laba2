@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TDcRu1ZzQTy/C8COixfEUftenJBMqqhRpJWbpcLNrruVxF4PdUCJYhpO5d7Ch0iH0HLPBZb8WToajsdEQDV2WQ==",
+  "success": true,
+  "projectFilePath": "/home/user/Source/laba2_bank/bibls/bibls.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

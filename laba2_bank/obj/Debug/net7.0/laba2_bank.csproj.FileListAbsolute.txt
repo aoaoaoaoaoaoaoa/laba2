@@ -1,0 +1,15 @@
+/home/user/Source/laba2_bank/bin/Debug/net7.0/laba2_bank
+/home/user/Source/laba2_bank/bin/Debug/net7.0/laba2_bank.deps.json
+/home/user/Source/laba2_bank/bin/Debug/net7.0/laba2_bank.runtimeconfig.json
+/home/user/Source/laba2_bank/bin/Debug/net7.0/laba2_bank.dll
+/home/user/Source/laba2_bank/bin/Debug/net7.0/laba2_bank.pdb
+/home/user/Source/laba2_bank/obj/Debug/net7.0/laba2_bank.csproj.AssemblyReference.cache
+/home/user/Source/laba2_bank/obj/Debug/net7.0/laba2_bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Source/laba2_bank/obj/Debug/net7.0/laba2_bank.AssemblyInfoInputs.cache
+/home/user/Source/laba2_bank/obj/Debug/net7.0/laba2_bank.AssemblyInfo.cs
+/home/user/Source/laba2_bank/obj/Debug/net7.0/laba2_bank.csproj.CoreCompileInputs.cache
+/home/user/Source/laba2_bank/obj/Debug/net7.0/laba2_bank.dll
+/home/user/Source/laba2_bank/obj/Debug/net7.0/refint/laba2_bank.dll
+/home/user/Source/laba2_bank/obj/Debug/net7.0/laba2_bank.pdb
+/home/user/Source/laba2_bank/obj/Debug/net7.0/laba2_bank.genruntimeconfig.cache
+/home/user/Source/laba2_bank/obj/Debug/net7.0/ref/laba2_bank.dll
